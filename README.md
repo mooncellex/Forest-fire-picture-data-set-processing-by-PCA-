@@ -1,0 +1,1 @@
+# Forest-fire-picture-data-set-processing-by-PCA-
